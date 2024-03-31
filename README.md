@@ -50,8 +50,6 @@
  c. After predicting the values, find the root mean square error
  d. Find out the error in prediction & store the result in ‘error’
  e. Find the root mean square error
- Contact us: support@intellipaat.com / © Copyright Intellipaat / All rights reserved
- Inte liPaat
 Python for Data Science Certification Course
  4. Logistic Regression:
  ● Build a simple logistic regression model where dependent variable is
