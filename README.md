@@ -9,6 +9,7 @@
  Lab Environment: Anaconda
  Domain: Telecom
  Tasks To Be Performed:
+
  1. Data Manipulation:
  ● Extract the 5th column and store it in ‘customer_5’
  ● Extract the 15th column and store it in ‘customer_15’
@@ -23,6 +24,7 @@
  ● Extract 333 random records from the customer_churndataframe and store
  the result in ‘customer_333’
  ● Get the count of different levels from the ‘Churn’ column
+
  2. Data Visualization:
  ● Build a bar-plot for the ’InternetService’ column:
  a. Set x-axis label to ‘Categories of Internet Service’
@@ -42,6 +44,7 @@
  e. Build a box-plot between ‘tenure’ & ‘Contract’. Map ‘tenure’ on the
  y-axis &
  f. ‘Contract’ on the x-axis.
+
  3. Linear Regression:
  ● Build a simple linear model where dependent variable is ‘MonthlyCharges’
  and independent variable is ‘tenure’:
@@ -51,6 +54,7 @@
  d. Find out the error in prediction & store the result in ‘error’
  e. Find the root mean square error
 Python for Data Science Certification Course
+
  4. Logistic Regression:
  ● Build a simple logistic regression model where dependent variable is
  ‘Churn’ and independent variable is ‘MonthlyCharges’:
@@ -64,6 +68,7 @@ Python for Data Science Certification Course
  e. Divide the dataset in 80:20 ratio
  f. Build the model on train set and predict the values on test set
  g. Build the confusion matrix and get the accuracy score
+
  5. Decision Tree:
  ● Build a decision tree model where dependent variable is ‘Churn’ and
  independent variable is ‘tenure’:
